@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "モンタージュ",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-24T04:10:42.718021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "mitch murder",
+      "has_synced": false,
+      "path": "select/01_モンタージュ_mitch_murder.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/02_モンタージュ_花譜.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "BUCK‐TICK",
+      "has_synced": false,
+      "path": "select/03_モンタージュ_BUCK‐TICK.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/04_モンタージュ_花譜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モンタージュ(鬱P Remix)",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/05_モンタージュ(鬱P_Remix)_花譜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "美郷あき",
+      "has_synced": false,
+      "path": "select/06_モンタージュ_美郷あき.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "Noriyuki Makihara",
+      "has_synced": false,
+      "path": "select/07_モンタージュ_Noriyuki_Makihara.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/08_モンタージュ_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "花譜 (KAF)",
+      "has_synced": true,
+      "path": "select/09_モンタージュ_花譜_(KAF).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "モンタージュ (鬱P Remix)",
+      "artist": "KAF",
+      "has_synced": true,
+      "path": "select/10_モンタージュ_(鬱P_Remix)_KAF.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "モンタージュ",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/11_モンタージュ_槇原敬之.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モンタージュ",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_モンタージュ_花譜.txt"
+    }
+  ]
+}
